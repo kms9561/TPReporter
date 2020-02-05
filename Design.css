@@ -1,0 +1,38 @@
+@charset "EUC-KR";
+p{
+	font-family: '³ª´®°íµñ', Arial;
+}
+ft{
+	font-family: 'HYÇìµå¶óÀÎ M', Arial;
+	font-size:24pt;
+}
+fs{
+	font-family: 'HYÅ©¸®½ºÅ»M', Serif;
+	font-size:17pt;
+}
+fh{
+	font-family: "HY¿±¼­M", Arial;
+	font-size: 14pt;
+	font
+}
+fn{
+	font-family: "¸¼Àº °íµñ", Arial, Sans-Serif;
+	font-size:10pt;
+}
+fi{
+	font-family: "HY¾èÀº»ù¹°M";
+	font-size:12pt;
+}
+<!-- -fib´Â ¸Þ´º È­¸é¿¡ ¾²±â À§ÇÑ fiÀÇ È®´ëÆÇÀÓ.->
+fib{
+	font-family: "HY¾èÀº»ù¹°M";
+	font-size:18pt;
+}
+div>a{
+	font-failmy:"¸¼Àº °íµñ", Arial;
+	font-size:18pt;
+}
+div[id=menu]{
+	font-family:"HYÇìµå¶óÀÎM",Arial;
+	font-size:22pt;
+}
